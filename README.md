@@ -1,2 +1,3 @@
 # aulas
-* https://live-cm-ah-14-37.video.globo.com/h/0401629035542881115360316289491429193439092aRo_LFT4V4Vy_5nege0sSw/k/html5/a/F/u/ce53b4f6-ba9f-4cfb-b7fe-0b4b4425f338/d/m/s/hls-pfc1/hls-pfc1_3539/playlist.m3u8
+* https://gcdn-live.video.globo.com/d/nl/s/hls-pfc1/hls-pfc1_1573/playlist.m3u8?URLPrefix=aHR0cHM6Ly9nY2RuLWxpdmUudmlkZW8uZ2xvYm8uY29tL2Qvbmwvcy9obHMtcGZjMQ==&Expires=1632678140&KeyName=key&Signature=5HehFHelo6xasCWGl7Dycs-YQ7U=
+* https://globolive.akamaized.net/d/c/x3300/s/hls-pfc1/hls-pfc1_1573/playlist.m3u8?hdntl=exp=1632636728~acl=%2fd%2fc%2fx3300%2fs%2fhls-pfc1%2f*~data=hdntl~hmac=b94a14db240367a2f074db52140647fef5f746b88892e7ff158085ad3e77e4ac;hdntl=exp=1632636730~acl=%2fd%2fc%2fx3300%2fs%2fhls-pfc1%2f*~data=hdntl~hmac=64ea1dd7fc81100a8d0a7ad09ae8247d7b18505e30de41064c2d746ea108abf2;%20hdntl=exp=1632636753~acl=%2fd%2fc%2fx3300%2fs%2fhls-pfc1%2f*~data=hdntl~hmac=3dc1cfa83384aa1845503267c1476b1e099534ae62c0c188dde06f374
