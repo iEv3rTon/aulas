@@ -1,2 +1,2 @@
 # aulas
-* https://google-br.cdn.booyah.live/hls/1000024/91024283.m3u8
+* https://google-br.cdn.booyah.live/hls/1500065/91187935.m3u8
