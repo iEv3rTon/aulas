@@ -1,4 +1,3 @@
 # aulas
 * https://live.cdn.br.estadio.com/live/canal_01/playlist-720p.m3u8?sjwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJsaXZlLmNkbi5ici5lc3RhZGlvLmNvbSIsInVyaV9zdWIiOiIvbGl2ZS9jYW5hbF8wMSIsImp0aSI6ImFhMjMyYTVhLWUyNWMtNDJlMi1iYTBkLTAwMzFhZDI3OGEzYSIsImlhdCI6MTYzMzg2OTE2OCwibmJmIjoxNjMzODY5MTA4LCJleHAiOjE2MzM5MTIzNjgsImRpbmFtaWNvIjoxLCJ1c2VyX2lkIjoiNzViNjhhZDktY2I1Ny00NWJmLWE4ODYtY2Q4NDIyZjc1MDQ3In0.qOSNqVSreGq0ng03x29aIRbWOaEJylDPNwMqtelD8jA
-* https://gcdn-live.video.globo.com/d/s/hls-pfc1/hls-pfc1/playlist.m3u8?URLPrefix=aHR0cHM6Ly9nY2RuLWxpdmUudmlkZW8uZ2xvYm8uY29tL2Qvcy9obHMtcGZjMQ==&Expires=1633971722&KeyName=key&Signature=nVrVi5UM5E5tE_13M1lt7FEU63U=
-* https://google-br.cdn.booyah.live/hls/1500045/92007767.m3u8
+* https://gcdn-live.video.globo.com/d/s/hls-pfc1/hls-pfc1/playlist.m3u8?URLPrefix=aHR0cHM6Ly9nY2RuLWxpdmUudmlkZW8uZ2xvYm8uY29tL2Qvcy9obHMtcGZjMQ==&Expires=1634146175&KeyName=key&Signature=CxrK3zPSJ_FxyCqB2UzUx6yESSM=
