@@ -1,2 +1,2 @@
-# aulas
-* https://live.cdn.br.estadio.com/live/canal_01/playlist-720p.m3u8?sjwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJsaXZlLmNkbi5ici5lc3RhZGlvLmNvbSIsInVyaV9zdWIiOiIvbGl2ZS9jYW5hbF8wMSIsImp0aSI6IjczOTdhZTc2LTc5Y2MtNGI1Yi1hMWZhLTM2YzBlZTc4Y2Y2NiIsImlhdCI6MTYzNDc2NTcwOSwibmJmIjoxNjM0NzY1NjQ5LCJleHAiOjE2MzQ4MDg5MDksImRpbmFtaWNvIjoxLCJ1c2VyX2lkIjoiNzViNjhhZDktY2I1Ny00NWJmLWE4ODYtY2Q4NDIyZjc1MDQ3In0.NlACL28tOrFyAJ2zoRPcIGmZwYBhTBloDAoZEMr0ucU
+# aulas 
+* https://akamai2-br.cdn.booyah.live/hls/1500020/93618494.m3u8
