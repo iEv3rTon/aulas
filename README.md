@@ -1,3 +1,2 @@
 # aulas
-* https://akamai2-br.cdn.booyah.live/hls/1500089/98088536.m3u8
-* https://google-br.cdn.booyah.live/hls/1500078/97754704.m3u8
+* https://gcdn-live.video.globo.com/d/s/hls-pfc1/hls-pfc1_1573/playlist.m3u8?URLPrefix=aHR0cHM6Ly9nY2RuLWxpdmUudmlkZW8uZ2xvYm8uY29tL2Qvcy9obHMtcGZjMQ==&Expires=1637957929&KeyName=key&Signature=XYx065Q1dEgveqJEM8F8hGodcGo=
