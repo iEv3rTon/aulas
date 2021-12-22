@@ -1,2 +1,2 @@
 # aulas
-* http://www.brasiltvweb.com/#/index/live
+* http://www.brasiltvweb.com/#/index-pc
