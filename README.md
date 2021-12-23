@@ -1,2 +1,2 @@
 # aulas
-* http://www.brasiltvweb.com/#/index-pc
+* https://play.brasiltvweb.com/v3/youshi/m3_ScQBL06LuJftF_264.m3u8?session_id=GnwdSU8ivaaI&app_ver=10101&auth_id=51589068_com.global.brasiltvweb&client_ip=2804:3d28:2:653:58d:58b1:9bbf:a6e6&user_id=51589068&app_id=com.global.brasiltvweb&dev_limit=1&main_addr=https://play.brasiltvweb.com/v3/youshi/&spared_addr=https://105m3u8.epg-kc.com/v3/youshi/&rst_status=0&dev_id=ca20fe39&expired=1640304017&token=083567830DF83A1A7C6FFAEE60A15D82&media_code=m3_ScQBL06LuJftF_264
