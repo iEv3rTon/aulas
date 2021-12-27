@@ -1,2 +1,2 @@
 # aulas
-* https://prod-fastly-sa-east-1.video.pscp.tv/Transcoding/v1/hls/AxcWDvldLWHhyUf1EAD2FatOl6CLu-8MhSNRSptLSCNBWlJHXfXOMJKsd5_KTRTKw3aEglohhV3LH5Gd0A2CzA/transcode/sa-east-1/periscope-replay-direct-prod-sa-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live
+* http://rec2.distv.net:80/live/welisson/123456/144.m3u8
