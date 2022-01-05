@@ -1,6 +1,6 @@
 # aulas
 spt * http://fonteangelusiptv.com:25461/live/dani123/dani123/856232.m3u8
-
+.
 2 * http://tv.factoryiptv.com:80/live/xMWpPkbM5a/factoryiptv/36943.m3u8
 
 3 * 
