@@ -1,6 +1,6 @@
 # aulas
 spt * http://tv.factoryiptv.com:80/live/mariana1/1234/37255.m3u8
-.
+
 2 * http://tv.factoryiptv.com:80/live/xMWpPkbM5a/factoryiptv/36943.m3u8
 
 3 * 
