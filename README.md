@@ -13,4 +13,4 @@ Fx * http://tv.factoryiptv.com:80/live/mariana1/1234/36970.m3u8
 Fx * http://rec2.distv.net:80/live/indio/123456/152.m3u8
 
 Muti * http://tv.factoryiptv.com:80/live/Tonin5462/h2692n3dbwl/36957.m3u8
-A
+A * http://tv.factoryiptv.com:80/live/Tonin5462/h2692n3dbwl/84472.m3u8
