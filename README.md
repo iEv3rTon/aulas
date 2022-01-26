@@ -25,4 +25,6 @@ B * http://tv.factoryiptv.com:80/live/RT301220B/8ugzb4q5g1t/84474.m3u8
 
 
 
-P* https://livebr-globo.myedgecast.com/d/c/x3300/s/hls-pfc5/hls-pfc5_1573/playlist.m3u8?hdnts=47i8Ir4L_VGlyRjH6gXzXMAOSUQkOX0k55CwC53WvZtsq8vZ2By6zI7Gxn7KXVp2tV3AuM-aTVBMWZoNRo_eZIxcVBXubMVR4-JpUETStFZchTTa
+
+
+P* https://livebr-globo.myedgecast.com/d/s/hls-pfc1/hls-pfc1_1573/playlist.m3u8?hdnts=3AAV3YBxONr7YlDlb2v9nMG65ScvPx2YZB9_j3Gu6I1sT8eK97_VSDu6H2KiRdZaC1gMsbiJ4ccFdwRSCaPUV-wKm1u9CCkM_-0g
