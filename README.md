@@ -15,14 +15,13 @@ Fx * http://rec2.distv.net:80/live/indio/123456/152.m3u8
 ---------------------------------------------
 
 Muti * http://tv.factoryiptv.com:80/live/Tonin5462/h2692n3dbwl/36957.m3u8
-
+.
 A * http://tv.factoryiptv.com:80/live/Tonin5462/h2692n3dbwl/84472.m3u8
-
+.
 B * http://tv.factoryiptv.com:80/live/Tonin5462/h2692n3dbwl/84474.m3u8
 B * http://tv.factoryiptv.com:80/live/RT301220B/8ugzb4q5g1t/84474.m3u8
 B * http://tv.factoryiptv.com:80/live/anaveloso/teste20/84474.m3u8
-
-
+.
 .
 .
 .
