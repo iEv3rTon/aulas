@@ -29,4 +29,4 @@ _
 -
 _
 
-P* https://livebr-globo.myedgecast.com/d/s/hls-pfc1/hls-pfc1_1573/playlist.m3u8?hdnts=3AAV3YBxONr7YlDlb2v9nMG65ScvPx2YZB9_j3Gu6I1sT8eK97_VSDu6H2KiRdZaC1gMsbiJ4ccFdwRSCaPUV-wKm1u9CCkM_-0g
+P* https://akamai.cdn.spalla.io/live/a023486f-9177-4f75-9236-d512fbb5d6f7/s1/playlist-720p.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2NDQwNjc1ODMsImlhdCI6MTY0MzQ2Mjc4MywiaWQiOiIxZTZhYjQxNS0yMzNkLTQzMGEtYTJmYy02MzZjYjA0ODliYWYiLCJuYmYiOjE2NDM0NjA5ODMsInVyaV9zdWIiOiIvYTAyMzQ4NmYtOTE3Ny00Zjc1LTkyMzYtZDUxMmZiYjVkNmY3LyJ9.yJw5yRixbFNYvTVwXTyz3n-Ou96p3CVxNb12UQJAJKA&uid=1e6ab415-233d-430a-a2fc-636cb0489baf
