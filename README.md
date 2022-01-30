@@ -22,7 +22,6 @@ spt * http://tv.factoryiptv.com:80/live/Sidy171/5p9tps3d6sr/37255.m3u8
 
 3 * 
 Ele * http://tv.factoryiptv.com:80/live/RT301220B/8ugzb4q5g1t/36977.m3u8
-http://tv.factoryiptv.com:80/live/rosinei/rosinei123/62869.m3u8
 .
 http://tv.factoryiptv.com:80/live/RT301220B/8ugzb4q5g1t/50739.m3u8
 .
