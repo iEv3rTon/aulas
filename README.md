@@ -14,7 +14,7 @@
 
 
 
-http://tv.factoryiptv.com:80/live/Tonin5462/h2692n3dbwl/36948.m3u8
+http://rec2.distv.net:80/live/adilson/123456/184.m3u8
 
 
 
