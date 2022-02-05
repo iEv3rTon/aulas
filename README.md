@@ -64,3 +64,4 @@ _
 _
 
 P* https://southamerica-east-hls.mls.mycujoo.tv/livemode/ckz5of1eg00ih0148x7p43lcp/480p/playlist.m3u8
+https://southamerica-east-hls.mls.mycujoo.tv/livemode/ckz5of1eg00ih0148x7p43lcp/720p/playlist.m3u8
