@@ -63,4 +63,4 @@ _
 -
 _
 
-P* https://akamai.cdn.spalla.io/live/a023486f-9177-4f75-9236-d512fbb5d6f7/s1/playlist-720p.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2NDQwNjc1ODMsImlhdCI6MTY0MzQ2Mjc4MywiaWQiOiIxZTZhYjQxNS0yMzNkLTQzMGEtYTJmYy02MzZjYjA0ODliYWYiLCJuYmYiOjE2NDM0NjA5ODMsInVyaV9zdWIiOiIvYTAyMzQ4NmYtOTE3Ny00Zjc1LTkyMzYtZDUxMmZiYjVkNmY3LyJ9.yJw5yRixbFNYvTVwXTyz3n-Ou96p3CVxNb12UQJAJKA&uid=1e6ab415-233d-430a-a2fc-636cb0489baf
+P* https://southamerica-east-hls.mls.mycujoo.tv/livemode/ckz5of1eg00ih0148x7p43lcp/480p/playlist.m3u8
