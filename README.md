@@ -27,6 +27,7 @@ spt * http://tv.factoryiptv.com:80/live/Sidy171/5p9tps3d6sr/37255.m3u8
 
 2 * http://rec2.distv.net:80/live/welisson/123456/189.m3u8
 
+http://tv.factoryiptv.com:80/live/anaveloso/teste20/36943.m3u8
 3 * 
 Ele * http://tv.factoryiptv.com:80/live/RT301220B/8ugzb4q5g1t/36977.m3u8
 .
